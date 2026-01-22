@@ -54,7 +54,8 @@ local_env = {
 
 推送token在https://push.showdoc.com.cn/获取
 
-比如https://push.showdoc.com.cn/server/api/push/f82b3276cfd5f6458fe4eb64209cfb50c2545a47f61e837a8a14a1c1b09e3f26，推送token就是f82b3276cfd5f6458fe4eb64209cfb50c2545a47f61e837a8a14a1c1b09e3f26
+比如https://push.showdoc.com.cn/server/api/push/f82b3276cfd5f6458fe4eb64209cfb50c2545a47f61e837a8a14a1c1b09e3f26
+推送token就是f82b3276cfd5f6458fe4eb64209cfb50c2545a47f61e837a8a14a1c1b09e3f26
 
 ## 程序逻辑
 
